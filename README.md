@@ -7,6 +7,7 @@ My name is Marios Glytsos!
 - 💡 **Experience**: 
   - Developed machine learning models for music source separation, genre recognition, and audio beat tracking.
   - Hands-on experience with U-nets, Transformers, CNNs, LLMs, and Residual Shuffle Exchange Networks.
+  - Also familiar with pose estimation, 3D mesh editing, and Blender, exploring their intersections with AI and audio applications.
 - 🤖 **Technical Skills**: Proficient in Python, PyTorch, Juce framework, and various machine learning and audio processing tools.
 
 If you don't see many public projects, it's because I'm working on top-secret, cutting-edge projects that are so confidential I might end up in jail if I shared them. Stay tuned for more updates!
